@@ -1,0 +1,38 @@
+{
+  "series": {
+    "1646878727605": {
+      "name": "La casa de papel",
+      "status": "ASSISTIDO",
+      "genre_id": null,
+      "poster": "//image.tmdb.org/t/p/original/qUmlmYWx3WndM01DHOTrmeiklVW.jpg",
+      "background": "//image.tmdb.org/t/p/original/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg"
+    }
+  },
+  "genres": {
+    "1646880572150": {
+      "name": "Comédia"
+    },
+    "1646880575812": {
+      "name": "Acao"
+    },
+    "1646881977463": {
+      "name": "teste"
+    },
+    "1646908498897": {
+      "name": "Terror"
+    },
+    "1646908559215": {
+      "name": "Teste 2"
+    },
+    "1646908573714": {
+      "name": "Teste 3"
+    },
+    "1646908708340": {
+      "name": "teste 4"
+    },
+    "1646908799862": {
+      "name": "teste 56"
+    }
+  },
+  "count": 0
+}
